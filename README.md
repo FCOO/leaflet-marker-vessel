@@ -4,7 +4,7 @@
 
 ## Description
 Provide different vessels (ships, airplanes etc.) as leaflet marker
-<img src="leaflet-marker-vessel.png"/>
+<br><img src="leaflet-marker-vessel.png"/>
 
 ## Installation
 ### bower
